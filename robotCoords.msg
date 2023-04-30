@@ -1,0 +1,8 @@
+float32 X
+float32 Y
+float32 Z
+float32 AX
+float32 AY
+float32 AZ
+float32 V
+bool lin
